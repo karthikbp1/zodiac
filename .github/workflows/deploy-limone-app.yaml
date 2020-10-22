@@ -4,7 +4,7 @@ name: Deploy Limone App
 #  push:
 #    paths:
 #    - limone-api/Application/**
-      
+       
 env:
    DEFAULT_LOCATION: uksouth
    LIMONE_ALIAS: xlimone
