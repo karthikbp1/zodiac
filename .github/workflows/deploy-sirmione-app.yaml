@@ -3,8 +3,8 @@
 # to change the name of the resource edit the ALIAS below
 
 #on:
-#  push:
-#    paths:
+#  push: 
+#    paths: 
 #    - sirmione-web/Application/Sirmione.Web/**
 
 on: [workflow_dispatch]
